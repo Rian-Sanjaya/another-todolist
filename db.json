@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Input new todo above and enter",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "Check out/in by clicking todo",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Remove todo by clicking the trash icon",
+      "isComplete": false
+    },
+    {
+      "name": "aku seorang kapiten",
+      "isComplete": true,
+      "id": 7
+    }
+  ]
+}
